@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160660673038",
+    "project_id": "fglogin-144813"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160660673038:android:602c18314dffb7fd",
+        "android_client_info": {
+          "package_name": "com.example.abhi.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160660673038-ukkioqhjhilo9fl6vs92m8ge4mii6uh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhi.loginapp",
+            "certificate_hash": "67C200A5B8D29D051C9ECA378C7BCF77A9818F1C"
+          }
+        },
+        {
+          "client_id": "160660673038-1gef9lf56rvih0brgkhcjp5surdceapc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBg_4DEAQRtd0r1jwvlIHcx6O5JPRWOsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
